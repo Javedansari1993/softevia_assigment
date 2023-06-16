@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, sans-serif;
+  margin-left: 5rem;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
